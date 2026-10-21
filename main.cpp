@@ -2,7 +2,7 @@
 // Concepts: classes, arrays, vectors, hand-built linked list,
 // file I/O for persistence, a menu loop, input validation
 //
-// Build:  g++ -std=c++17 -Wall -o library library.cpp
+// Build:  g++ -std=c++17 -Wall -o library main.cpp
 // Run:    ./library
 // Data is saved to books.txt and members.txt in the current folder.
 
